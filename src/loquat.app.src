@@ -1,6 +1,6 @@
 {application, loquat,
- [{description, "An OTP application"},
-  {vsn, "0.1.0"},
+ [{description, "Loquat: A System for Large-Scale Actor Programming"},
+  {vsn, "0.0.1"},
   {registered, []},
   {mod, { loquat_app, []}},
   {applications,
